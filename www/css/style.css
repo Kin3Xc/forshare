@@ -1,0 +1,41 @@
+/* Empty. Add your own CSS if you like */
+body{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+	background-color: #ecf0f1;
+	color: #34495e;
+}
+.logo{
+	width: 50%;
+}
+h1 {
+    color: #fff;
+    text-shadow: 0 1px 0px #000;
+    font-size: 42px;
+    text-align: center;
+}
+.btn-login{
+	background-color: #11C1F3;
+	color: #FFF;
+	border:none;
+}
+.btn-login:hover{
+	background-color: #11C1F3;
+	color: #FFF;
+}
+.register{
+	margin-top: 10px;
+	margin-bottom: 16%;
+}
+.btn-register{
+	background-color: #84B93A;
+	color: #FFF;
+	border:none;
+}
+.btn-register:hover{
+	background-color: #84B93A;
+	color: #FFF;
+}
+.facebook{
+	margin-top: 20px;
+}
